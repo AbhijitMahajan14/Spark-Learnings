@@ -14,4 +14,5 @@ Feel free to fork the repository, submit issues, and send pull requests. Your co
 
 ## Contact
 If you have any questions or suggestions, feel free to contact me.
+
 Mail here: [your.email@example.com](mailto:your.email@example.com). 📧
